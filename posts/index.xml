@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2023 14:57:57 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>/posts/blog/</link>
+      <pubDate>Wed, 28 Jun 2023 14:57:57 +0800</pubDate>
+      
+      <guid>/posts/blog/</guid>
+      <description>
+        
+          
+            #Q：创建新博客时命令窗口显示“hugo不是一个可执行命令或文件“
+A：未配置环境变量，详情参考教程视频
+Q：电脑无法打开md文件
+A：右键文件，选择打开方式，选择记事本，确定
+Q：新建的博客明明在文件里换行了，但在网站上没换
+A：根据 Markdown Syntax 文档，当从源码输出为 HTML 时，换行符（软换行）不会被转换为 （硬换行），如果要插入硬换行，你需要在行尾输入两个（或更多）空格。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
